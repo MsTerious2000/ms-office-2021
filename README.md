@@ -1,6 +1,6 @@
 # Microsoft Office LTSC Professional Plus 2021
 
-[Download](https://github.com/MsTerious2000/ms-office-pro-plus-2021/archive/refs/heads/main.zip)
+[Click here to download zip file](https://github.com/MsTerious2000/ms-office-pro-plus-2021/archive/refs/heads/main.zip)
 
 ## INSTALLATION
 1. Open command prompt as administrator
